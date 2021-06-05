@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009334496699",
+    "project_id": "task-firebase-b97fd",
+    "storage_bucket": "task-firebase-b97fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009334496699:android:10c9df97b9e2339c53289e",
+        "android_client_info": {
+          "package_name": "alitaleb.firebase_task_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009334496699-lt01r3i3pm8km73dvu0g57sg39kqtec1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHvrU_5oONb7j2Ln03NJenPOmBEw2FveQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009334496699-lt01r3i3pm8km73dvu0g57sg39kqtec1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
